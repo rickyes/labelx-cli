@@ -1,0 +1,34 @@
+{
+  "name": "labelx-cli",
+  "version": "0.0.3",
+  "description": "LabelX CLI",
+  "main": "index.js",
+  "bin": {
+    "lax": "./bin/labelx.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "commander": "^2.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lax": "lax info"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoumingque/labelx-cli.git"
+  },
+  "keywords": [
+    "LabelX",
+    "cli"
+  ],
+  "author": "zhoumq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhoumingque/labelx-cli/issues"
+  },
+  "homepage": "https://github.com/zhoumingque/labelx-cli#readme"
+}
