@@ -4,18 +4,22 @@
   "description": "LabelX CLI",
   "main": "index.js",
   "bin": {
-    "lax": "./bin/labelx.js"
+    "bax": "./bin/bax.js"
   },
   "directories": {
     "lib": "lib"
   },
   "dependencies": {
+    "bluebird": "^3.5.1",
     "chalk": "^2.3.2",
-    "commander": "^2.15.1"
+    "commander": "^2.15.1",
+    "hexo-util": "^0.6.3",
+    "moment": "^2.22.0",
+    "util": "^0.10.3"
   },
   "devDependencies": {},
   "scripts": {
-    "lax": "lax info"
+    "bax": "bax -v"
   },
   "repository": {
     "type": "git",

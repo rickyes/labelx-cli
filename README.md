@@ -12,9 +12,30 @@ LabelX CLI
 
 ## Script
 
-```javascript
-> lax info
+```bash
+$ bax -h
+
+
+  Usage: bax <command>
+
+  Options:
+
+    -v, --version  output the version number
+    -h, --help     output usage information
+
+  Commands:
+
+    init           init LabelX Dev
 
 ...
-
 ```
+
+## Init LabelX dev
+
+```bash
+$ bax init [name]
+```
+
+## License
+
+MIT
