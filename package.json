@@ -1,6 +1,6 @@
 {
   "name": "labelx-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "LabelX CLI",
   "main": "index.js",
   "bin": {

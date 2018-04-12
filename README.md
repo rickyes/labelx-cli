@@ -10,7 +10,7 @@ LabelX CLI
 [![NPM](https://nodei.co/npm/labelx-cli.png?compact=true)](https://nodei.co/npm/labelx-cli/)
 > `npm i labelx-cli -g`
 
-## Script
+## Usage
 
 ```bash
 $ bax -h
