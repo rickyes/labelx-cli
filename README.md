@@ -1,7 +1,7 @@
 # label-cli
-[LabelX](https://github.com/zhoumingque/LabelX) CLI
+[LabelX](https://github.com/rickyes/LabelX) CLI
 
-[![Build Status](https://travis-ci.org/zhoumingque/labelx-cli.svg?branch=master)](https://travis-ci.org/zhoumingque/labelx-cli)
+[![Build Status](https://travis-ci.org/rickyes/labelx-cli.svg?branch=master)](https://travis-ci.org/rickyes/labelx-cli)
 [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/labelx-cli)
 [![node](https://img.shields.io/badge/node-%3E%3D8-green.svg)](https://www.npmjs.com/package/labelx-cli)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://www.npmjs.com/package/labelx-cli)
